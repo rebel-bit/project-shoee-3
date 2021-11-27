@@ -1,0 +1,88 @@
+{ 
+  "barang": [
+    {
+      "id": 1,
+      "namaBarang": "Bantal Guling",
+      "jumlah": "1",
+      "gambar": "https://id-test-11.slatic.net/p/e6f3484ecc10414bed1e99495b5ccc4d.jpg_400x400Q100.jpg_.webp",
+      "harga": "90.000"
+    },
+    {
+      "namaBarang": "I7S TWS",
+      "jumlah": "",
+      "gambar": "https://id-live-05.slatic.net/p/bc714aa3a71e860dcaf654a13b441c8f.jpg_200x200q90.jpg_.webp",
+      "harga": "25.900",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "namaBarang": "kaos Kaki",
+      "stok": "5",
+      "gambar": "https://id-test-11.slatic.net/p/d0ed51e5d9216134324e84ad616012c0.jpg_170x170q80.jpg_.webp",
+      "harga": "21.000"
+    },
+    {
+      "id": 5,
+      "namaBarang": "Alas kaki Kain",
+      "stok": "3",
+      "gambar": "https://id-test-11.slatic.net/p/d0ed51e5d9216134324e84ad616012c0.jpg_170x170q80.jpg_.webp",
+      "harga": "23.000"
+    },
+    {
+      "id": 6,
+      "namaBarang": "Kain buat kaki",
+      "stok": "5",
+      "gambar": "https://id-test-11.slatic.net/p/d0ed51e5d9216134324e84ad616012c0.jpg_170x170q80.jpg_.webp",
+      "harga": "12.000"
+    },
+    {
+      "id": 7,
+      "namaBarang": "Kaos Kaki Bayi",
+      "stok": "1",
+      "gambar": "https://id-test-11.slatic.net/p/d0ed51e5d9216134324e84ad616012c0.jpg_170x170q80.jpg_.webp",
+      "harga": "11.000.000"
+    },
+    {
+      "id": 8,
+      "namaBarang": "Rinso",
+      "stok": "2",
+      "gambar": "https://id-test-11.slatic.net/p/1affb0aece4f41f6b916df673366ce99.png_170x170Q100.jpg_.webp",
+      "harga": "11.000"
+    },
+    {
+      "id": 9,
+      "namaBarang": "Downy jumbo",
+      "stok": "3",
+      "gambar": "https://id-test-11.slatic.net/p/1affb0aece4f41f6b916df673366ce99.png_170x170Q100.jpg_.webp",
+      "harga": "15.000"
+    },
+    {
+      "id": 11,
+      "namaBarang": "PS 20",
+      "stok": "4",
+      "gambar": "https://id-test-11.slatic.net/p/1cab71234572cbcf2273cc81aceac3c8.jpg_170x170Q100.jpg_.webp",
+      "harga": "119.000.000"
+    },
+    {
+      "id": 12,
+      "namaBarang": "DVD",
+      "stok": "3",
+      "gambar": "https://id-test-11.slatic.net/p/9014850919a97a6f94f8b5cf5e530dfe.jpg_170x170Q100.jpg_.webp",
+      "harga": "21.000"
+    },
+    {
+      "id": 13,
+      "namaBarang": "Handuk Mandi",
+      "stok": "1",
+      "gambar": "https://id-test-11.slatic.net/p/d92165757b0f44d71220b07748b4936c.jpg_170x170Q100.jpg_.webp",
+      "harga": "40.000"
+    },
+    {
+      "id": 14,
+      "namaBarang": "sarung",
+      "stok": "2",
+      "gambar": "https://t-2.tstatic.net/tribunnewswiki/foto/bank/images/sarung.jpg",
+      "harga": "15000"
+    }
+  ]
+}
